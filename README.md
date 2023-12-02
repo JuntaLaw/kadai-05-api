@@ -4,6 +4,7 @@ ChatGPTとLangchain、Pineconeを使用したReactについてのTutor bot
 ## DEMO
 
   - デプロイしている場合はURLを記入（任意）
+  - ![使用例](/capimg/Screenshot%202023-12-02%20at%209.26.35.png)
 
 ## 紹介と使い方
 
